@@ -1,8 +1,8 @@
-package chapter02task;
+package chapter02_task;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Task05Map {
+public class Task05_Map {
 	public static void main(String[] args) {
 		Map<String, String> comics = new HashMap<String, String>();
 		comics.put("Landreaall", "おがきちか");

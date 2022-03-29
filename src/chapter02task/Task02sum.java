@@ -1,6 +1,6 @@
-package chapter02task;
+package chapter02_task;
 
-public class Task02sum {
+public class Task02_sum {
 	public static void main(String[] args) {
 		int sum = 0;
 
