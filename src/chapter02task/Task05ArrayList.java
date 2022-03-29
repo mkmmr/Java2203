@@ -1,7 +1,7 @@
-package chapter02task;
+package chapter02_task;
 import java.util.ArrayList;
 
-public class Task05ArrayList {
+public class Task05_ArrayList {
 	public static void main(String[] args) {
 		ArrayList<String> fruits = new ArrayList<String>();
 		fruits.add("apple");
